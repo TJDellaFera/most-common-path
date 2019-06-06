@@ -1,0 +1,16 @@
+{
+  "name": "three-path-sequence",
+  "version": "0.0.0",
+  "description": "Most common 3 path sequence",
+  "main": "server.js",
+  "repository": "",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "fs-promise": "^2.0.2",
+    "jasmine": "^2.5.3"
+  },
+  "scripts": {
+    "test": "jasmine"
+  }
+}
