@@ -6,7 +6,7 @@
   "repository": "",
   "dependencies": {
     "async": "~0.2.8",
-    "express": "~3.2.4",
+    "express": "~4.17.1",
     "fs-promise": "^2.0.2",
     "jasmine": "^2.5.3"
   },
